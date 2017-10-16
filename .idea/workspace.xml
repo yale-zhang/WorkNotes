@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346b0814-5a89-461d-8e9a-1d31f44f9176" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BookNotes/Clean Code/第一章整洁代码.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BookNotes/Clean Code/第三章函数.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookNotes/BookNotes.md" afterPath="$PROJECT_DIR$/BookNotes/BookNotes.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -688,7 +685,7 @@
       <workItem from="1500914149633" duration="2661000" />
       <workItem from="1500916825169" duration="34000" />
       <workItem from="1501575534046" duration="726000" />
-      <workItem from="1508171802120" duration="967000" />
+      <workItem from="1508171802120" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="int 先基本分下目录">
       <created>1500916272096</created>
@@ -704,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500916831375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="clean">
+      <created>1508172791515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508172791515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4388000" />
+    <option name="totallyTimeSpent" value="4412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -753,7 +757,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="int 先基本分下目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="int 先基本分下目录" />
+    <MESSAGE value="clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
