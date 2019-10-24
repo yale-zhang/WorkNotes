@@ -31,3 +31,8 @@ Makefile.in
 # http://www.gnu.org/software/texinfo
 
 /texinfo.tex
+
+# IntelliJ project files
+/.idea
+.idea
+*.iml
