@@ -4,15 +4,15 @@
 
 这个项目只是简单记录下工作和学习中遇到的知识点，做简单的收集备忘。  
 
- - [读书札记](/BookNotes/BookNotes.md)
+ - [朝花夕拾](/BookNotes/BookNotes.md)
  
- - [每日一问](/Question/Question.MD)
+ - [N日谈](/Question/Question.MD)
  
- - [技术栈](/depot/depot.md)
+ - [面包屑](/depot/depot.md)
  
- - [工具箱](/ToolsBox/toolsBox.md)
+ - [手提包](/ToolsBox/toolsBox.md)
  
- - [朝花夕拾](/Notes)
+ - [废纸篓](/Notes)
  
 
 
