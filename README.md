@@ -4,15 +4,17 @@
 
 这个项目只是简单记录下工作和学习中遇到的知识点，做简单的收集备忘。  
 
- - [朝花夕拾](/BookNotes/BookNotes.md)
+ - [朝花夕拾](/BookNotes/BookNotes.md) --> *譬如朝露，去日苦多*
  
- - [N日谈](/Question/Question.MD)
+ - [N日谈](/Question/Question.MD) --> *不知道谈几日*
  
- - [面包屑](/depot/depot.md)
+ - [面包屑](/depot/depot.md) --> *要是多大的劲儿才能拍的起来面包屑?*
  
- - [手提包](/ToolsBox/toolsBox.md)
+ - [手提包](/ToolsBox/toolsBox.md) --> *包里装不下的唯有忧伤*
  
- - [废纸篓](/Notes)
+ - [废纸篓](/Notes) --> *不知道放哪怎么办?*
  
+ ***  
+ > 无聊的人不代表无趣,自娱自乐也是快乐(*^▽^*)！
 
 
