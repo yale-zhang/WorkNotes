@@ -15,3 +15,7 @@ Linux
 BigData  
 
    -[Hadoop-Sqoop export浅析](/depot/sqoop/Hive2msql.md)
+   
+SQL
+
+   -[SQL语句](/depot/SQL/SQL.MD)
