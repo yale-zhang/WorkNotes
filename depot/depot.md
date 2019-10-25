@@ -18,4 +18,5 @@ BigData
    
 SQL
 
-   -[SQL语句](/depot/SQL/SQL.MD)
+   -[SQL语句](/depot/SQL/SQL.MD)  
+   -[一千行 MySQL 学习笔记](/depot/SQL/Mysql学习笔记.MD)
